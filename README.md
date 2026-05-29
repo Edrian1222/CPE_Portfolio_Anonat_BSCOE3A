@@ -16,6 +16,7 @@ This portfolio represents my learning journey, projects, and technical growth. I
 
 My goal is to become a skilled Computer Engineer who can contribute to innovation in software development, electronics, and modern technology systems. I am always willing to learn new tools, improve my skills, and take on challenging projects.
 
+And also im second placer on 3d modeling in 2025 
 💻 SKILLS & TECHNOLOGIES
 
 🛠️ Programming Languages
